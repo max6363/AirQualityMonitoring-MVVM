@@ -29,6 +29,8 @@ Used MVVM design pattern.
 #### Unit/UI tests
 - Added Unit and UI Tests using `XCTest`.
 
+##### Code Coverage
+<img width="641" alt="AQI-Code-Coverage" src="https://user-images.githubusercontent.com/21213161/130839659-8ead5e3b-bf36-492c-9dab-3ab725c77a5d.png">
 
 
 
